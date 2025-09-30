@@ -21,7 +21,7 @@ em8706sk-s
 ju3288nj-s
 ol7421ha-s
 hu3676st-s
-er7308wa-s
+er7306wa-s
 si8683ch-s
 gu5251he-s
 ma1624or-s
@@ -51,3 +51,4 @@ ka8546na-s
 in5875fa-s
 em3355ha-s
 os3058gr-s
+
