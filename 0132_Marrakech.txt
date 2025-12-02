@@ -116,3 +116,4 @@ si8504lu-s
 pe0034ni-s
 al8682ar-s
 vi8627ek-s
+os0460li-s
