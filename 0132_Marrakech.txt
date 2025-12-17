@@ -124,4 +124,5 @@ el8720po-s
 tu1212ha-s 
 em8706sk-s
 ch6367ka-s
-ma1624or-s
+ma1624or
+em4436ho
