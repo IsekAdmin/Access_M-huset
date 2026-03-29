@@ -4,13 +4,6 @@ th8478ha-s
 gu5058we-s
 ax4444ha-s
 ga7653ka-s
-ca4556bj-s
-Eb5643sc-s
-el0024ed-s
-el5331kj-s
-ka4207ho-s
-ma5501ce-s
-ma8183ek-s
 sa4733bj-s
 lu4717ro-s
 er7306wa-s
@@ -29,3 +22,10 @@ jo3834li-s
 el8720po-s
 is0513be-s
 ka8546na-s
+ca4556bj-s
+Eb5643sc-s
+el0024ed-s
+el5331kj-s
+ka4207ho-s
+ma5501ce-s
+ma8183ek-s
