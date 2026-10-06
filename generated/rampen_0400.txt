@@ -26,6 +26,7 @@ ma3427ve-s
 pa1382ma-s
 wi2272sj-s
 al2706de-s
+ax4523sj-s
 ca4556bj-s
 Eb5643sc-s
 el0024ed-s
@@ -59,6 +60,3 @@ ca4227eh-s
 ed5602se-s
 ag1202gu-s
 el3257sc-s
-wi4337wi-s
-ax4444ha-s
-gu5728lu-s
