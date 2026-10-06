@@ -1,5 +1,4 @@
 Cafékök 1136
-ha5774ma-s
 ca2320jo-s
 el5331kj-s
 Fr6574ha-s
@@ -10,6 +9,12 @@ ca2006st-s
 si0765li-s
 am1726ba-s
 da2846ho-s
+ti3220la-s
+ha6187he-s
+ol5550tr-s
+el4150st-s
+re8651pa-s
+an1041ma-s
 th8478ha-s
 jo2377no-s
 ca3136al-s
@@ -23,7 +28,6 @@ sa3072jo-s
 si0843ho-s
 si3318we-s
 li0251fa-s
-se2736ja-s
 al0618bl-s
 eb8173sj-s
 el0058au-s
