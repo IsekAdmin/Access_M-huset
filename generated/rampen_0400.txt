@@ -12,6 +12,12 @@ sa3072jo-s
 si0843ho-s
 si3318we-s
 li0251fa-s
+th0051ba-s
+er0376ji-s
+es0077su-s
+ja0770sa-s
+si5573ba-s
+ge0845pa-s
 al0618bl-s
 eb8173sj-s
 el0058au-s
@@ -26,6 +32,12 @@ ma3427ve-s
 pa1382ma-s
 wi2272sj-s
 al2706de-s
+fa3714st-s
+se0441ha-s
+va6007to-s
+gr1880ar-s
+an2646fl-s
+ca1016ma-s
 ax4523sj-s
 ca4556bj-s
 Eb5643sc-s
@@ -50,6 +62,9 @@ hu3676st-s
 ma5142ka-s
 si8683ch-s
 vi2658th-s
+Os8707st-s
+Wi7888ho-s
+vi2543bj-s
 ch6367ka-s
 em8706sk-s
 ma1624or-s
